@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Header Banner" />
+  <img src="./banner.svg" width="100%" alt="Header Banner" />
 </div>
 
 <br />
