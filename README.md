@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Header Banner" />
+  <img src="./ahsan-sadi-banner.svg" width="100%" alt="Header Banner" />
 </div>
 
 <br />
